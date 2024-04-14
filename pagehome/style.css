@@ -1,0 +1,12 @@
+body {
+    background-image: url('caminho/para/sua/imagem.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    text-align: center;
+  }
+  .form {
+    text-align: left;
+  }
+
+  
